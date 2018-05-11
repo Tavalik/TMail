@@ -66,7 +66,7 @@ opm install tmail
  
 ### Процедура ДобавитьВТекстСообщенияHTML(СтрокаДляДобавления="") Экспорт
 
-* Добавляет строку в текст сообщения для HTML-документа, оборачивая строку в тег <p>
+* Добавляет строку в текст сообщения для HTML-документа, оборачивая строку в тег ```<p>```
 * Параметры:
   * СтрокаДляДобавления - Строка - Строка для добавления в файл
 
@@ -158,6 +158,9 @@ opm install tmail
 
 ```
 
-Резульат:
+Результат:
 
+<img src="https://github.com/Tavalik/TMail/blob/master/Screenshots/TMail1.png" alt="Скриншот1">
+
+<img src="https://github.com/Tavalik/TMail/blob/master/Screenshots/TMail2.png" alt="Скриншот2">
 
